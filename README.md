@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- **B.S. Candidate** in Software Engineering at [Beijing Institute of Technology](https://www.bit.edu.cn), 8/2021 - Present.
+- 🌱 Python / Typescript. Nuxt.js. PyTorch.
+- 🔑 GPG key hosted here at [GitHub](https://github.com/Aaron-Gp.gpg)
