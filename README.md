@@ -31,7 +31,12 @@ Here are some ideas to get you started:
   </picture>
 </div>
 
+## 📊 GitHub Metrics
+
 <details>
-<summary>📊 GitHub Metrics</summary>
+<summary>
+
+</summary>
+
 <img src="https://raw.githubusercontent.com/Aaron-Gp/Aaron-Gp/main/github-metrics.svg" alt="Metrics" width="100%" />
 </details>
