@@ -30,7 +30,7 @@ jobs:
           # ========== 插件配置 ==========
 
           # 3D 贡献日历
-          plugin_isocalendar: yes
+          plugin_isocalendar: no
           plugin_isocalendar_duration: half-year
 
           # 语言分析
@@ -42,10 +42,10 @@ jobs:
           plugin_lines: yes
 
           # Star 趋势
-          plugin_stargazers: yes
+          plugin_stargazers: no
           plugin_stargazers_charts_type: chartist
 
-          plugin_topics: yes
+          plugin_topics: no
           plugin_topics_mode: icons
           plugin_topics_sort: activity
 
