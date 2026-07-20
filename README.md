@@ -20,3 +20,17 @@ Here are some ideas to get you started:
 - 🔭 Computer Architecture, Artificial Intelligence, and Neuromorphic Computation.
 - 🌱 C / Verilog / Python / Typescript. Nuxt.js. PyTorch.
 - 🔑 GPG key hosted here at [GitHub](https://github.com/Aaron-Gp.gpg)
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aaron-Gp/Aaron-Gp/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aaron-Gp/Aaron-Gp/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Aaron-Gp/Aaron-Gp/output/github-snake-dark.svg" />
+  </picture>
+</div>
+
+## 😋 My GitHub Metrics
+
+<img src="https://raw.githubusercontent.com/Aaron-Gp/Aaron-Gp/main/github-metrics.svg" alt="Metrics" width="100%" />
