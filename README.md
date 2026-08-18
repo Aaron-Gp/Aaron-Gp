@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- **M.S. Candidate** in Computer Science at [National University of Defense Technology](https://www.nudt.edu.cn/) (coursework) and Academy of Military Sciences (degree), 9/2025 - present.
-- **B.Sc.** in Software Engineering at [Beijing Institute of Technology](https://www.bit.edu.cn), 8/2021 - 6/2025.
+- **M.S. Candidate** in Computer Science at AMS, completed coursework at NUDT and conducting research at Qiyuan Lab, 9/2025 - present.
+- **B.S.** in Software Engineering at [Beijing Institute of Technology](https://www.bit.edu.cn), 8/2021 - 6/2025.
 - 🔭 Computer Architecture, Artificial Intelligence, and Neuromorphic Computation.
-- 🌱 C / Verilog / Python / Typescript. Nuxt.js. PyTorch.
+- 🌱 C++ / Verilog / Python / Typescript. Nuxt.js. PyTorch.
 - 🔑 GPG key hosted here at [GitHub](https://github.com/Aaron-Gp.gpg)
 
 ## 🐍 Contribution Snake
